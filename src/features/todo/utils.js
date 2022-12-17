@@ -1,0 +1,1 @@
+export const mapItems = (array = []) => array.map((item, index) => ({...item, id: index + 1}))
