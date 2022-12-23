@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa8db99a-35dc-43b7-abcc-33e9bb036068" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/src/features/albums/api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/albums/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/posts/api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/posts/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/users/api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/features/users/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/rootApi.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/rootApi.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/products/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/products/api.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/features/products/slice.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/features/products/slice.js" afterDir="false" />
-    </list>
+    <list default="true" id="aa8db99a-35dc-43b7-abcc-33e9bb036068" name="Changes" comment="init" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1671288456487</updated>
       <workItem from="1671288459102" duration="10282000" />
-      <workItem from="1671807827582" duration="3443000" />
+      <workItem from="1671807827582" duration="3792000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1671300420802</created>
