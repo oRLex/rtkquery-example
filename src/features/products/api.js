@@ -11,9 +11,6 @@ const products = rootApi.injectEndpoints({
       },
       // слушает все invalidatesTags которые совпадают по названию
       providesTags: ['GET_PRODUCTS'],
-      // save cache
-      // default 60 sec
-      keepUnusedDataFor: 60
     }),
     getProduct: build.query({
       query: id => {

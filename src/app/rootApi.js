@@ -5,7 +5,7 @@ import {createApi, fetchBaseQuery} from '@reduxjs/toolkit/query/react'
 export const rootApi = createApi({
   reducerPath: 'rootApi',
   baseQuery: fetchBaseQuery({
-    baseUrl: 'https://dummyjson.com/',
+    baseUrl: 'https://jsonplaceholder.typicode.com/',
     // set token here
     // prepareHeaders: headers => headers,
     // change query params serializer
